@@ -103,8 +103,9 @@ With more time, I would have also implemented outer loop voltage control on our 
 
 ## Media
 <img width="509" height="491" alt="image" src="https://github.com/user-attachments/assets/59ae3513-c72d-464e-aa0e-4f3a0a881c39" />
+<img width="495" height="677" alt="image" src="https://github.com/user-attachments/assets/7e7170a6-bdba-4fe5-b170-35319d9a39ba" />
 
-Assembled PCB
+Assembled PCB and Testing Set Up
 
 ## Tools
 PLECS · Altium · C (TI C2000) · MATLAB · Oscilloscope
